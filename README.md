@@ -1,2 +1,5 @@
-# esphome-boilderplate-component
-A boillerplate component for ESPHome
+# esphome-boilerplate-component
+
+A boilerplate component for ESPHome
+
+Simply rename "boilerplate" everywhere to your component name
